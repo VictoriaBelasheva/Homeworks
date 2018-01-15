@@ -4,5 +4,5 @@
 * Система контроля версий Git
 * Язык текстовой разметки Markdown
 
-# [Марат Якубов](mailto:mn.yakubov@gmail.com)
-* [Telegram](https//t.me/maratNaufal_ugli)
+# [Виктория Белашева](mailto:vrbelasheva.edu.hse.ru)
+* [Telegram](https//t.me/Allmonstersarehuman)

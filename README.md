@@ -5,4 +5,4 @@
 * Язык текстовой разметки Markdown
 
 # [Виктория Белашева](mailto:vrbelasheva.edu.hse.ru)
-* [Telegram](https//t.me/Allmonstersarehuman)
+* [Telegram](https//t.me/Allmonstersarehuman69)
